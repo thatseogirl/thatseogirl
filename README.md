@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arotimi Tobiloba</h1>
-<h3 align="center">A passionate frontend developer who loves to build responsive websites and functional website.</h3>
+<h3 align="center">A passionate frontend developer who loves to build responsive and functional website.</h3>
 
 - 👨‍💻 All of my projects are available at [https://that-seo-girl.netlify.app](https://that-seo-girl.netlify.app)
 
