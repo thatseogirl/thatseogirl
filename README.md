@@ -3,11 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://that-seo-girl.netlify.app](https://that-seo-girl.netlify.app)
 
-- 📝 I regularly write articles on [https://tobi-blog.netlify.app](https://tobi-blog.netlify.app)
-
 - 💬 Ask me about **Frontend Development.**
-
-- 📫 How to reach me **arotimi.tobiloba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
